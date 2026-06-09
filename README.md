@@ -4,7 +4,7 @@
 
 ### Computer Science Student and Laboratory Assistant @ FINKI
 
-### AI & Software Engineer @ Adstract
+### Co-founder, AI & Software Engineer @ Adstract
 
 Currently building AI systems, backend applications, and data-driven products.
 
