@@ -1,6 +1,7 @@
 <div align="center">
 
 # ⌌ Hi, I'm Viktor ⌍
+### Junior AI Developer @ Vezilka AI Factory Antenna
 
 ### Computer Science Student and Laboratory Assistant @ FINKI
 
