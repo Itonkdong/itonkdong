@@ -1,6 +1,7 @@
 <div align="center">
 
 # ⌌ Hi, I'm Viktor ⌍
+
 ### Junior AI Developer @ Vezilka AI Factory Antenna
 
 ### Computer Science Student and Laboratory Assistant @ FINKI
@@ -17,12 +18,9 @@ Currently building AI systems, backend applications, and data-driven products.
 
 <div align="center">
 
-<a href="https://github.com/itonkdong">
-  <img height="170em" alt="Viktor's most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itonkdong&layout=compact&theme=github_dark&hide=Jupyter%20Notebook" />
-</a>
-<a href="https://github.com/itonkdong">
-  <img height="170em" alt="Viktor's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=itonkdong&show_icons=true&theme=github_dark" />
-</a>
+[//]: # (<img height="170em" alt="Viktor's most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itonkdong&layout=compact&theme=github_dark&hide=Jupyter%20Notebook" />)
+
+[//]: # (<img height="170em" alt="Viktor's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=itonkdong&show_icons=true&theme=github_dark" />)
 
 <img src="https://streak-stats.demolab.com?user=itonkdong&theme=github-dark"/>
 
@@ -40,7 +38,8 @@ Currently building AI systems, backend applications, and data-driven products.
     - Advanced Databases
     - Algorithms & Data Structures
     - Web Programming and other courses
-- Interested in AI, Machine Learning, Data Science and Data Engineering, Natural Language Processing, MLOps,  Backend Development, and Distributed Systems
+- Interested in AI, Machine Learning, Data Science and Data Engineering, Natural Language Processing, MLOps, Backend
+  Development, and Distributed Systems
 
 ---
 
@@ -51,7 +50,7 @@ Currently building AI systems, backend applications, and data-driven products.
 Working on and researching various AI systems, with a focus on:
 
 - End-to-end MLOps workflows and infrastructure
-- RAG systems 
+- RAG systems
 - LLM training, evaluation, fine-tuning, and hyperparameter optimization
 
 ### Adstract
