@@ -30,8 +30,10 @@
 
 ## ⎈ About Me
 
-- Interested in AI, Machine Learning, Data Science and Data Engineering, Natural Language Processing, MLOps, Backend
-  Development, and Distributed Systems
+My academic and professional focus lies at the intersection of artificial intelligence, machine learning, natural
+language processing, data science and data engineering, exploring how data and models can be shaped into practical,
+intelligent solutions. Complementing this foundation, I am interested in MLOps, distributed systems, and reliable
+backend architectures that enable these solutions to operate effectively at scale.
 
 ---
 
@@ -41,13 +43,15 @@
 
 Working on and researching various AI systems, with a focus on:
 
-- End-to-end MLOps workflows and infrastructure
 - RAG systems
+- Backend services that ensure AI systems operate reliably and
+  perform at the required level
+- End-to-end MLOps workflows and infrastructure
 - LLM training, evaluation, fine-tuning, and hyperparameter optimization
 
 ### Adstract
 
-AI-powered advertising platform for Large Language Models.
+AI-powered advertising platform for contextual advertising.
 
 - https://www.adstract.ai
 
