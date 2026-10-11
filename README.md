@@ -4,8 +4,6 @@
 
 ### Bachelor of Engineering in Information Science and Computer Engineering, specializing in Computer Science
 
-### Master's Student @ FINKI
-
 ### Junior AI Engineer @ VEZILKA AI Factory Antenna
 
 ### Co-founder, AI & Software Engineer @ Adstract
