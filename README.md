@@ -10,8 +10,6 @@
 
 ### Co-founder, AI & Software Engineer @ Adstract
 
-Currently building AI systems, backend applications, and data-driven products.
-
 </div>
 
 ---
