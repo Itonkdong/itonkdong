@@ -39,7 +39,7 @@ Currently building AI systems, backend applications, and data-driven products.
 
 ## ⌬ What I'm Working On
 
-### Vezilka
+### VEZILKA AI Factory Antenna
 
 Working on and researching various AI systems, with a focus on:
 
