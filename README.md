@@ -2,11 +2,13 @@
 
 # ⌌ Hi, I'm Viktor ⌍
 
-### Junior AI Developer @ Vezilka AI Factory Antenna
+### Bachelor of Engineering in Information Science and Computer Engineering, specializing in Computer Science
 
-### Computer Science Student and Laboratory Assistant @ FINKI
+### Master's Student @ FINKI
 
-### Co-founder, AI & Software Developer @ Adstract
+### Junior AI Engineer @ Vezilka AI Factory Antenna
+
+### Co-founder, AI & Software Engineer @ Adstract
 
 Currently building AI systems, backend applications, and data-driven products.
 
@@ -30,14 +32,6 @@ Currently building AI systems, backend applications, and data-driven products.
 
 ## ⎈ About Me
 
-- Computer Science student at FINKI
-- Junior AI Developer at Vezilka
-- Laboratory Assistant for:
-    - Machine Learning
-    - Introduction to Data Science
-    - Advanced Databases
-    - Algorithms & Data Structures
-    - Web Programming and other courses
 - Interested in AI, Machine Learning, Data Science and Data Engineering, Natural Language Processing, MLOps, Backend
   Development, and Distributed Systems
 
