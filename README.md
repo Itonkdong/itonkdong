@@ -6,7 +6,7 @@
 
 ### Master's Student @ FINKI
 
-### Junior AI Engineer @ Vezilka AI Factory Antenna
+### Junior AI Engineer @ VEZILKA AI Factory Antenna
 
 ### Co-founder, AI & Software Engineer @ Adstract
 
