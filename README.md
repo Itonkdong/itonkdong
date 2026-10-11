@@ -4,11 +4,13 @@
 
 ### Bachelor of Engineering in Information Science and Computer Engineering, specializing in Computer Science
 
+### Teaching and Research Assistant @ FINKI
+
 ### Master's Student @ FINKI
 
 ### Junior AI Engineer @ VEZILKA AI Factory Antenna
 
-### Co-founder, AI & Software Engineer @ Adstract
+### Co-founder, AI & Software Engineer @ Adstract AI
 
 </div>
 
@@ -39,6 +41,10 @@ backend architectures that enable these solutions to operate effectively at scal
 
 ## ⌬ What I'm Working On
 
+### FINKI
+
+Conducting classroom and laboratory exercises as a Teaching and Research Assistant.
+
 ### VEZILKA AI Factory Antenna
 
 Working on and researching various AI systems, with a focus on:
@@ -49,7 +55,7 @@ Working on and researching various AI systems, with a focus on:
 - End-to-end MLOps workflows and infrastructure
 - LLM training, evaluation, fine-tuning, and hyperparameter optimization
 
-### Adstract
+### Adstract AI
 
 AI-powered advertising platform for contextual advertising.
 
