@@ -2,7 +2,9 @@
 
 # ⌌ Hi, I'm Viktor ⌍
 
-### Teaching and Research Assistant @ FCSE
+### Bachelor of Engineering in Information Science and Computer Engineering, specializing in Computer Science
+
+### Master's Student @ FINKI
 
 ### Junior AI Engineer @ VEZILKA AI Factory Antenna
 
