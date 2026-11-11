@@ -2,11 +2,7 @@
 
 # ⌌ Hi, I'm Viktor ⌍
 
-### Bachelor of Engineering in Information Science and Computer Engineering, specializing in Computer Science
-
-### Teaching and Research Assistant @ FINKI
-
-### Master's Student @ FINKI
+### Teaching and Research Assistant @ FCSE
 
 ### Junior AI Engineer @ VEZILKA AI Factory Antenna
 
@@ -30,6 +26,13 @@
 
 ---
 
+## ◈ Education
+
+- **Master's studies in Data Science in Computer Science and Engineering** — FCSE *(2026–Present)*
+- **Bachelor of Engineering in Information Science and Computer Engineering, specializing in Computer Science** — FCSE *(2022–2026)*
+
+---
+
 ## ⎈ About Me
 
 My academic and professional focus lies at the intersection of artificial intelligence, machine learning, natural
@@ -41,7 +44,7 @@ backend architectures that enable these solutions to operate effectively at scal
 
 ## ⌬ What I'm Working On
 
-### FINKI
+### FCSE
 
 Conducting classroom and laboratory exercises as a Teaching and Research Assistant.
 
